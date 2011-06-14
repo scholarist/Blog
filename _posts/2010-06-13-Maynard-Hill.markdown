@@ -1,0 +1,13 @@
+
+Maynard Hill [died][1], age 85. He designed and flew a remote-control
+aircraft from Newfoundland to Ireland in 2003. This flight set model
+aircraft records for straight-line distance (1,882 miles) and duration
+(38 hours, 52 minutes, 14 seconds). Mr Hill was blind and nearly deaf
+at the time. The record flight was his sixth attempt.
+
+Mr. Hill was a metallurgist at Johns Hopkins University, where he
+helped constructed early unmanned drone aircraft.
+
+[1]: http://www.nytimes.com/2011/06/13/us/13hill.html?hpw
+
+

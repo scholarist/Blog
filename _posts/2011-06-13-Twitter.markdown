@@ -1,0 +1,23 @@
+
+Virginia Heffernan on [Twitter as a game][1]. 
+
+>It is grounded in the first principles of game theory, including
+ variations on the Prisoner's Dilemma. You have to give to get; you
+ have to get to give. Managing these ratios, deciding how much of
+ your attention to expend to win attention to yourself, say, is the
+ lion's share of the Twitter action. 
+ 
+Gamification is getting to be a common marketing trope; try searching
+for it on [DuckDuckGo][2]. Gamification is Simon Dumenco wrote about Twitter as a
+[game platform][4]. He argued that the #hashtag Olympics on the
+service is really an ongoing competition among users to say the
+wittiest and/or most offensive thing. Last December I think Heffernan
+has written about it in one or another of her columns, probably in a
+mention of [Jane McGonigal's][3] _Reality is Broken_.
+
+
+
+[1]: http://opinionator.blogs.nytimes.com/2011/06/12/the-game-of-twitter/?hp
+[2]: https://duckduckgo.com/?q=gamification&kf=b
+[3]: https://secure.wikimedia.org/wikipedia/en/wiki/Jane_McGonigal
+[4]: http://adage.com/article/trending-topics/twitter-pretty-officially-a-gaming-platform/147736/

@@ -1,0 +1,40 @@
+June 13 2011
+
+I've been exploring the idea of writing more short text files on
+whatever I'm interested, using the Markdown formatting. That way, I
+have big directories full of stuff that could theoretically be blogged
+using Chronicle or Jekyll. Its not a "one big text file" solution, but
+its still a manageable and useful way to organize writing. 
+
+This idea has made me more committed to the static blog generators like
+Jekyll and Chronicle. The latter is the easier of the two to use, its
+basically plug-and-play. Jekyll is a little fancier but requires more
+time to learn and set up. If you're going to blog like a hacker, you
+better enjoy hacking, I suppose.
+
+Nice day today, LW and Emmie came down to the mall and had lunch at
+the lunch carts. Then we bought Emmie some ice cream and watched the
+ducks by the terrace. 
+
+In the evening I picked up some toner for the HP 5-cartridge printer
+at Office Depot. Usually, restocking costs 40-50 bucks, but tonight I
+had a coupon from the cartridges I recycled in the spring, so it came
+to $17. The recycling deposit program makes me buy all my toner at the
+Depot; I don't get that kind of break anywhere else.
+
+Always amazed at the leftover waste when I install new cartridges. I
+probably cut down a little buying the store-brand cartridges in packs
+of three. Still, that's a lot of stuff left over--tape, plastic bags
+and doo-dads. My favorite are those little fliers HP includes that
+show you all the neat things you can do with your printer, like, you
+know, print stuff. My idea is that you should buy a complete set of
+cartridges in a plain brown box that is easily recycled, with no
+plastic packaging. Its not just the money--the packaging seems like
+such a waste. But I have old skool Soviet-style ideas of consumer
+packaging and that's just not how you sell stuff in America. Its
+probably a good thing that I'm not running a company.
+
+While at the Depot, I browsed the Asus and Toshiba laptops, and left
+my favorite Windows 7 app running on each, namely, Notepad.
+
+

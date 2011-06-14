@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Github</title>
+ <link href="http://.github.com/github/atom.xml" rel="self"/>
+ <link href="http://.github.com/github/"/>
+ <updated>2011-06-13T20:08:12-05:00</updated>
+ <id>http://.github.com/github/</id>
+ <author>
+   <name>Dr Nic Williams</name>
+   <email>williams@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to 'Github'</title>
+   <link href="http://.github.com/github/2011/06/13/first-post.html"/>
+   <updated>2011-06-13T00:00:00-05:00</updated>
+   <id>http://.github.com/github/2011/06/13/first-post</id>
+   <content type="html">&lt;p&gt;Github is going to be an awesome project.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Twitter</title>
+   <link href="http://.github.com/github/2011/06/13/Twitter.html"/>
+   <updated>2011-06-13T00:00:00-05:00</updated>
+   <id>http://.github.com/github/2011/06/13/Twitter</id>
+   <content type="html">&lt;p&gt;Virginia Heffernan on &lt;a href='http://opinionator.blogs.nytimes.com/2011/06/12/the-game-of-twitter/?hp'&gt;Twitter as a game&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is grounded in the first principles of game theory, including&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;variations on the Prisoner&amp;#8217;s Dilemma. You have to give to get; you have to get to give. Managing these ratios, deciding how much of your attention to expend to win attention to yourself, say, is the lion&amp;#8217;s share of the Twitter action.&lt;/p&gt;
+
+&lt;p&gt;Gamification is getting to be a common marketing trope; try searching for it on &lt;a href='https://duckduckgo.com/?q=gamification&amp;amp;kf=b'&gt;DuckDuckGo&lt;/a&gt;. Gamification is Simon Dumenco wrote about Twitter as a &lt;a href='http://adage.com/article/trending-topics/twitter-pretty-officially-a-gaming-platform/147736/'&gt;game platform&lt;/a&gt;. He argued that the #hashtag Olympics on the service is really an ongoing competition among users to say the wittiest and/or most offensive thing. Last December I think Heffernan has written about it in one or another of her columns, probably in a mention of &lt;a href='https://secure.wikimedia.org/wikipedia/en/wiki/Jane_McGonigal'&gt;Jane McGonigal&amp;#8217;s&lt;/a&gt; &lt;em&gt;Reality is Broken&lt;/em&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Emily's Bible</title>
+   <link href="http://.github.com/github/2011/06/13/Emily%27s-Bible.html"/>
+   <updated>2011-06-13T00:00:00-05:00</updated>
+   <id>http://.github.com/github/2011/06/13/Emily's-Bible</id>
+   <content type="html">&lt;p&gt;Emily Dickinson&amp;#8217;s &lt;a href='http://blogs.law.harvard.edu/houghtonmodern/2011/06/13/emily-dickinsons-not-so-sacred-book/'&gt;Bible&lt;/a&gt; at Harvard, with a scan of a page and a separate scan of a flower that had been pressed on that page. Dickinson&amp;#8217;s religiosity is somewhat disputed:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Was Emily Dickinson a religious person? She attended church services as a child, and the Dickinsons held daily religious observation in their home. But she rejected the religious revivalism that was so prominent a feature of her adolescence, and at some point ceased to attend church services altogether: .&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Some keep the Sabbath going to church / I keep it staying at home. (Fr 236).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Diary</title>
+   <link href="http://.github.com/github/2011/06/13/Diary.html"/>
+   <updated>2011-06-13T00:00:00-05:00</updated>
+   <id>http://.github.com/github/2011/06/13/Diary</id>
+   <content type="html">&lt;p&gt;June 13 2011&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve been exploring the idea of writing more short text files on whatever I&amp;#8217;m interested, using the Markdown formatting. That way, I have big directories full of stuff that could theoretically be blogged using Chronicle or Jekyll. Its not a &amp;#8220;one big text file&amp;#8221; solution, but its still a manageable and useful way to organize writing.&lt;/p&gt;
+
+&lt;p&gt;This idea has made me more committed to the static blog generators like Jekyll and Chronicle. The latter is the easier of the two to use, its basically plug-and-play. Jekyll is a little fancier but requires more time to learn and set up. If you&amp;#8217;re going to blog like a hacker, you better enjoy hacking, I suppose.&lt;/p&gt;
+
+&lt;p&gt;Nice day today, LW and Emmie came down to the mall and had lunch at the lunch carts. Then we bought Emmie some ice cream and watched the ducks by the terrace.&lt;/p&gt;
+
+&lt;p&gt;In the evening I picked up some toner for the HP 5-cartridge printer at Office Depot. Usually, restocking costs 40-50 bucks, but tonight I had a coupon from the cartridges I recycled in the spring, so it came to $17. The recycling deposit program makes me buy all my toner at the Depot; I don&amp;#8217;t get that kind of break anywhere else.&lt;/p&gt;
+
+&lt;p&gt;Always amazed at the leftover waste when I install new cartridges. I probably cut down a little buying the store-brand cartridges in packs of three. Still, that&amp;#8217;s a lot of stuff left over&amp;#8211;tape, plastic bags and doo-dads. My favorite are those little fliers HP includes that show you all the neat things you can do with your printer, like, you know, print stuff. My idea is that you should buy a complete set of cartridges in a plain brown box that is easily recycled, with no plastic packaging. Its not just the money&amp;#8211;the packaging seems like such a waste. But I have old skool Soviet-style ideas of consumer packaging and that&amp;#8217;s just not how you sell stuff in America. Its probably a good thing that I&amp;#8217;m not running a company.&lt;/p&gt;
+
+&lt;p&gt;While at the Depot, I browsed the Asus and Toshiba laptops, and left my favorite Windows 7 app running on each, namely, Notepad.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Maynard Hill</title>
+   <link href="http://.github.com/github/2010/06/13/Maynard-Hill.html"/>
+   <updated>2010-06-13T00:00:00-05:00</updated>
+   <id>http://.github.com/github/2010/06/13/Maynard-Hill</id>
+   <content type="html">&lt;p&gt;Maynard Hill &lt;a href='http://www.nytimes.com/2011/06/13/us/13hill.html?hpw'&gt;died&lt;/a&gt;, age 85. He designed and flew a remote-control aircraft from Newfoundland to Ireland in 2003. This flight set model aircraft records for straight-line distance (1,882 miles) and duration (38 hours, 52 minutes, 14 seconds). Mr Hill was blind and nearly deaf at the time. The record flight was his sixth attempt.&lt;/p&gt;
+
+&lt;p&gt;Mr. Hill was a metallurgist at Johns Hopkins University, where he helped constructed early unmanned drone aircraft.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
